@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="intscan.c">
+    <ClCompile Include="floatcharscan.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -4,7 +4,8 @@
 	V 1.0 2022.
 */
 
-#define _CRT_sECURE_NO_WARNINGS //scanf() 오류를 방지하기 위한 상수 정의
+#define _CRT_SECURE_NO_DEPRECATE //scanf()오류를 방지하기 위한 상수 정의(둘 중 하나 사용)
+#define _CRT_SECURE_NO_WARNINGS  //scanf()오류를 방지하기 위한 상수 정의(둘 중 하나 사용)
 
 #include< stdio.h>
 int main(void)
