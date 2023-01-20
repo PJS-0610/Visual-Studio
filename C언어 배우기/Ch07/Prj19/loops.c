@@ -22,7 +22,7 @@ int main(void)
 			for (j = 1, sum = 0; j <= i; j++)
 			{
 				printf("%d", j);
-				j == i ? printf(" = ") : printf(" + ");  //if (j==1);   printf(" = ");  else;   printf(" + ");
+				j == i ? printf(" = ") : printf(" + ");  //if (j==i)   printf(" = ");  else   printf(" + ");
 				sum += j;
 			}
 			printf("%d\n", sum);
