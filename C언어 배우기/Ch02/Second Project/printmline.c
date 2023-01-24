@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main(void)
 {
 	puts("세 번째 C 프로그램!");
@@ -9,6 +10,7 @@ int main(void)
 	puts("1. 솔루션과 프로젝트 만들기");
 	printf("2. 소스파일 편집\n");
 	printf("3. 실행\n");
+	
 	
 	return 0;
 }
