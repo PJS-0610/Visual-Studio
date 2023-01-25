@@ -1,5 +1,5 @@
 /*
-	솔루션 / 프로젝트 / 소스파일: Ch11 / Prj08 / storageclass.c
+	솔루션 / 프로젝트 / 소스파일: Ch12 / Prj08 / storageclass.c
 	전역변수와 지역변수의 선언과 참조
 	V 1.0 2022.
 */

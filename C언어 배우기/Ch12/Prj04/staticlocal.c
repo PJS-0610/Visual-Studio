@@ -1,5 +1,5 @@
 /*
-	솔루션 / 프로젝트 / 소스파일: Ch11 / Prj05 / staticlocal.c
+	솔루션 / 프로젝트 / 소스파일: Ch12 / Prj05 / staticlocal.c
 	정적 지역변수
 	V 1.0 2022.
 */

@@ -1,5 +1,5 @@
 /*
-	솔루션 / 프로젝트 / 소스파일: Ch11 / Prj04 / registervar.c
+	솔루션 / 프로젝트 / 소스파일: Ch12 / Prj04 / registervar.c
 	레지스터 변수의 선언과 사용
 	V 1.0 2022.
 */

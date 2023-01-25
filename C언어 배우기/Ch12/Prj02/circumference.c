@@ -1,5 +1,5 @@
 /*
-	솔루션 / 프로젝트 / 소스파일: Ch11 / Prj03 / circumference.c
+	솔루션 / 프로젝트 / 소스파일: Ch12 / Prj03 / circumference.c
 	외부 전역변수 PI를 참조
 	V 1.0 2022.
 */
