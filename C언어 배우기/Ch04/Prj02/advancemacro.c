@@ -21,7 +21,7 @@ int main(void)
 	printf("반지름이 %.2lf인 구의 체적은 %.2lf 입니다.\n", radius, VOLUME(radius));
 	printf("실수 %.2f의 제곱은 %.2f 입니다.\n", 4.29, SQUARE(4.29));
 	printf("실수 %.2f의 세 제곱은 %.2f 입니다.\n", 3.0, CUBE(3.0));
-	printf("실수 %.2f와 실수 %.2f의 곱은 %.2f 입니다.\n", 2.78, 3.62, MULT(2.78,3.62));
+	printf("실수 %.2f와 실수 %.2f의 곱은 %.2f 입니다.\n", 2.78, 3.62, MULT(2.78, 3.62));
 	puts(MESSAGE);
 
 	return 0;

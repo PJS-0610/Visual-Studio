@@ -38,7 +38,7 @@ LINK append(LINK head, LINK cur)
 		head = cur;		//추가하려는 노드가 head가 됨
 		return head;
 	}
-	
+
 	//멤버 next가 NULL일 때까지 이동하여 마지막 노드까지 이동
 	while (nextNode->next != NULL)
 	{
@@ -46,7 +46,7 @@ LINK append(LINK head, LINK cur)
 	}
 
 	//추가 노드를 현재 노드의 next로 저장
-	nextNode ->next = cur;
+	nextNode->next = cur;
 	return head;
 }
 

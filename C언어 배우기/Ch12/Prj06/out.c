@@ -13,5 +13,5 @@ void outfunction()
 
 	//외부 파일에서 선언된 정적 전역변수이므로 실행시 오류
 	//printf("%d\n", ++sglobal);
-	
+
 }

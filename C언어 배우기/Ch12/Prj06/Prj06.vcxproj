@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{35b4b497-326e-46af-9ecd-f824f2f666a5}</ProjectGuid>
-    <RootNamespace>Prj1</RootNamespace>
+    <ProjectGuid>{d8ce4436-11de-40f7-bc40-f0d6e07434b2}</ProjectGuid>
+    <RootNamespace>Prj06</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Prj01</ProjectName>
+    <ProjectName>Prj0809</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="address.c" />
+    <ClCompile Include="out.c" />
+    <ClCompile Include="storageclass.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

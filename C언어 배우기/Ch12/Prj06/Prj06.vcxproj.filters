@@ -15,15 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="linkedlist.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="linkedlist.c">
+    <ClCompile Include="out.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="listlib.c">
+    <ClCompile Include="storageclass.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sysmacro.c">
+    <ClCompile Include="preifdef.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

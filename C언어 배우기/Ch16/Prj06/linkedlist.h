@@ -21,4 +21,4 @@ struct linked_list
 typedef struct linked_list NODE;
 
 //NODE *를 LINK로 재정의
-typedef NODE * LINK;
+typedef NODE* LINK;
